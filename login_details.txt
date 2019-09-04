@@ -1,0 +1,30 @@
+Details:-
+
+
+1)Copy paste the notes folder to your directory (Xampp/htdocs).
+
+2) Copy paste notes.sql(notes/db/note.sql) file to your Database(phpmyadmin).
+
+3) Run xampp 
+	Note: :- "localhost:3308","root","simon","notes"			
+			(HOST)		,(user)	 ,(password  ),(database_name)
+			
+4) open browser:- localhost/notes
+
+
+
+
+Login details for Notes :
+
+
+Admin Login ---->
+
+username: root
+password: adminroot
+
+
+User Login ----->
+
+username:  user
+password:  userpass
+
